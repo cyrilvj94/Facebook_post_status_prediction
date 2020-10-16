@@ -1,0 +1,77 @@
+INFO : MODELLING.Model_Creation : 2020-08-15 21:42:11,253 :  Data obtained for training, shaped (18668, 31) , (18668, 1)
+INFO : MODELLING.Model_Creation : 2020-08-15 21:42:11,254 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-15 21:42:47,549 :  Accuracy scores for data rf and xgboost [0.65545318 0.6524534 ]
+INFO : MODELLING.Model_Creation : 2020-08-15 21:42:47,557 :  Random Forest selected RandomizedSearchCV(cv=10, estimator=RandomForestClassifier(verbose=False),
+                   param_distributions={'criterion': ['gini', 'entropy'],
+                                        'max_depth': range(10, 31, 2),
+                                        'min_samples_split': range(10, 31, 2),
+                                        'n_estimators': range(10, 150, 10)})
+INFO : MODELLING.Model_Creation : 2020-08-15 21:47:38,369 :  Data obtained for training, shaped (18668, 31) , (18668, 1)
+INFO : MODELLING.Model_Creation : 2020-08-15 21:47:38,370 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-15 21:48:12,504 :  Accuracy scores for data rf and xgboost [0.64602528 0.66166702]
+INFO : MODELLING.Model_Creation : 2020-08-15 21:48:12,515 :  xgboost selected params: RandomizedSearchCV(cv=10,
+                   estimator=XGBClassifier(objective='multi:softprob',
+                                           verbose=False),
+                   param_distributions={'colsample_bytree': [0.6, 0.8, 1.0],
+                                        'gamma': [0.5, 1, 1.5, 2, 5],
+                                        'learning_rate ': [0.0001, 0.001, 0.01,
+                                                           0.05],
+                                        'max_depth': [3, 4, 5],
+                                        'min_child_weight': range(1, 10),
+                                        'subsample': [0.6, 0.8, 1.0]})
+INFO : MODELLING.Model_Creation : 2020-08-15 21:48:12,515 :  END OF MODELLING
+INFO : MODELLING.Model_Creation : 2020-08-15 21:52:37,327 :  Data obtained for training, shaped (18668, 31) , (18668, 1)
+INFO : MODELLING.Model_Creation : 2020-08-15 21:52:37,328 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-15 21:53:20,715 :  Accuracy scores for data rf and xgboost [0.64323977 0.65502464]
+INFO : MODELLING.Model_Creation : 2020-08-15 21:53:20,744 :  xgboost selected params: RandomizedSearchCV(cv=10,
+                   estimator=XGBClassifier(objective='multi:softprob',
+                                           verbose=False),
+                   param_distributions={'colsample_bytree': [0.6, 0.8, 1.0],
+                                        'gamma': [0.5, 1, 1.5, 2, 5],
+                                        'learning_rate ': [0.0001, 0.001, 0.01,
+                                                           0.05],
+                                        'max_depth': [3, 4, 5],
+                                        'min_child_weight': range(1, 10),
+                                        'subsample': [0.6, 0.8, 1.0]})
+INFO : MODELLING.Model_Creation : 2020-08-15 21:53:20,746 :  END OF MODELLING
+INFO : MODELLING.Model_Creation : 2020-08-28 19:22:07,381 :  Data obtained for training, shaped (72, 31) , (72, 1)
+INFO : MODELLING.Model_Creation : 2020-08-28 19:22:07,481 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-28 19:22:18,887 :  Accuracy scores for data rf and xgboost [0.38888889 0.27777778]
+INFO : MODELLING.Model_Creation : 2020-08-28 19:22:18,927 :  Random Forest selected params: RandomizedSearchCV(cv=10, estimator=RandomForestClassifier(verbose=False),
+                   param_distributions={'criterion': ['gini', 'entropy'],
+                                        'max_depth': range(10, 31, 2),
+                                        'min_samples_split': range(10, 31, 2),
+                                        'n_estimators': range(10, 150, 10)})
+INFO : MODELLING.Model_Creation : 2020-08-28 19:22:18,928 :  END OF MODELLING
+INFO : MODELLING.Model_Creation : 2020-08-28 19:34:27,090 :  Data obtained for training, shaped (72, 31) , (72, 1)
+INFO : MODELLING.Model_Creation : 2020-08-28 19:34:27,091 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-28 19:34:29,176 :  Accuracy scores for data rf and xgboost [0.05555556 0.11111111]
+INFO : MODELLING.Model_Creation : 2020-08-28 19:34:29,189 :  xgboost selected params: RandomizedSearchCV(cv=10,
+                   estimator=XGBClassifier(objective='multi:softprob',
+                                           verbose=False),
+                   param_distributions={'colsample_bytree': [0.6, 0.8, 1.0],
+                                        'gamma': [0.5, 1, 1.5, 2, 5],
+                                        'learning_rate ': [0.0001, 0.001, 0.01,
+                                                           0.05],
+                                        'max_depth': [3, 4, 5],
+                                        'min_child_weight': range(1, 10),
+                                        'subsample': [0.6, 0.8, 1.0]})
+INFO : MODELLING.Model_Creation : 2020-08-28 19:34:29,189 :  END OF MODELLING
+INFO : MODELLING.Model_Creation : 2020-08-28 21:00:42,433 :  Data obtained for training, shaped (72, 31) , (72, 1)
+INFO : MODELLING.Model_Creation : 2020-08-28 21:00:42,434 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-28 21:00:45,752 :  Accuracy scores for data rf and xgboost [0.44444444 0.38888889]
+INFO : MODELLING.Model_Creation : 2020-08-28 21:00:45,777 :  Random Forest selected params: RandomizedSearchCV(cv=10, estimator=RandomForestClassifier(verbose=False),
+                   param_distributions={'criterion': ['gini', 'entropy'],
+                                        'max_depth': range(10, 31, 2),
+                                        'min_samples_split': range(10, 31, 2),
+                                        'n_estimators': range(10, 150, 10)})
+INFO : MODELLING.Model_Creation : 2020-08-28 21:00:45,778 :  END OF MODELLING
+INFO : MODELLING.Model_Creation : 2020-08-30 17:28:58,091 :  Data obtained for training, shaped (76, 31) , (76, 1)
+INFO : MODELLING.Model_Creation : 2020-08-30 17:28:58,107 :  start of modelling
+INFO : MODELLING.Model_Creation : 2020-08-30 17:29:12,670 :  Accuracy scores for data rf and xgboost [0.42105263 0.42105263]
+INFO : MODELLING.Model_Creation : 2020-08-30 17:29:12,693 :  Random Forest selected params: RandomizedSearchCV(cv=10, estimator=RandomForestClassifier(verbose=False),
+                   param_distributions={'criterion': ['gini', 'entropy'],
+                                        'max_depth': range(10, 31, 2),
+                                        'min_samples_split': range(10, 31, 2),
+                                        'n_estimators': range(10, 150, 10)})
+INFO : MODELLING.Model_Creation : 2020-08-30 17:29:12,694 :  END OF MODELLING

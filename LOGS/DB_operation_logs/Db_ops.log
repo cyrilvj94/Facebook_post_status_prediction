@@ -1,0 +1,98 @@
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:39:38,942 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:39:39,083 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:40:45,307 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:41:48,843 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:42:09,072 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:42:09,273 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:42:09,274 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:45:18,314 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:45:18,540 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:46:15,579 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:47:14,670 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:47:36,253 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:47:36,427 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:47:36,428 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:50:25,754 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:50:25,851 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:51:25,052 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:52:14,898 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:52:35,765 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:52:35,844 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:52:35,845 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:57:41,338 :  Instance of DB_operation created params: Prediction_batches/Good_data , Prediction_1, Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:57:41,526 :  FB_train databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:58:47,620 :  Table 'Prediction_1' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:58:48,425 :  Data inserted to table 'Prediction_1' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:58:48,536 :  Exported csv file to Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:58:48,542 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 21:58:48,543 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:06:23,345 :  Instance of DB_operation created params: Prediction_batches/Good_data , Prediction_1, Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:06:23,793 :  FB_train databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:07:13,143 :  Table 'Prediction_1' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:07:13,646 :  Data inserted to table 'Prediction_1' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:07:13,759 :  Exported csv file to Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:07:13,771 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:07:13,773 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:14:22,977 :  Instance of DB_operation created params: Prediction_batches/Good_data , Prediction_1, Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:14:23,201 :  FB_train databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:15:32,735 :  Table 'Prediction_1' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:15:33,647 :  Data inserted to table 'Prediction_1' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:15:33,925 :  Exported csv file to Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:15:33,979 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:15:33,979 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:16:31,127 :  Instance of DB_operation created params: Prediction_batches/Good_data , Prediction_1, Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:16:31,221 :  FB_train databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:18:01,150 :  Table 'Prediction_1' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:18:01,574 :  Data inserted to table 'Prediction_1' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:18:01,653 :  Exported csv file to Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:18:01,658 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-15 22:18:01,658 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:21:01,650 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:21:05,077 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:22:05,048 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:22:06,133 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:22:06,303 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:22:06,307 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:22:06,308 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:27:44,873 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:27:45,318 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:29:05,867 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:29:06,572 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:29:06,663 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:29:06,666 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:29:06,667 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:31:04,227 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:31:04,517 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:32:05,014 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:32:05,737 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:32:05,955 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:32:05,967 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:32:05,967 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:33:23,183 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:33:23,440 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:34:26,073 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:34:26,815 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:34:26,910 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:34:26,912 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 19:34:26,913 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 20:59:38,399 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 20:59:38,639 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 21:00:41,900 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 21:00:42,246 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 21:00:42,303 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 21:00:42,306 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-28 21:00:42,306 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:25:36,034 :  Instance of DB_operation created params: Prediction_batches/Good_data , Prediction_1, Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:25:37,299 :  FB_train databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:26:34,770 :  Table 'Prediction_1' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:26:36,193 :  Data inserted to table 'Prediction_1' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:26:36,436 :  Exported csv file to Combined_prediction_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:26:36,535 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 08:26:36,535 :  DB OPS COMPLETED
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:27:29,682 :  Instance of DB_operation created params: Training_batches/Good_data , Train, Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:27:31,585 :  FB_post_status databse exists!! connection created
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:28:56,616 :  Table 'Train' Created Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:28:57,260 :  Data inserted to table 'Train' Successfully
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:28:57,361 :  Exported csv file to Combined_training_data/Input_file.csv
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:28:57,392 :  Closed db connection 
+INFO : DB_OPERATIONS.Database_operations : 2020-08-30 17:28:57,393 :  DB OPS COMPLETED

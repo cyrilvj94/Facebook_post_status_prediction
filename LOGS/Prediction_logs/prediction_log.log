@@ -1,0 +1,44 @@
+INFO : PREDICTION.predict_data : 2020-08-15 21:59:51,978 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-15 21:59:52,342 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-15 22:00:28,106 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-15 22:00:38,292 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-15 22:07:38,844 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-15 22:07:38,845 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-15 22:07:40,046 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-15 22:07:40,344 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-15 22:18:06,103 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-15 22:18:06,104 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-15 22:18:06,548 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-15 22:18:06,567 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 08:26:44,951 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 08:26:44,951 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 08:26:46,203 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 08:26:46,348 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 08:43:10,722 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 08:43:10,723 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 08:43:11,174 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 08:43:11,183 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:28,741 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:28,741 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:29,198 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:29,204 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:39,236 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:39,237 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:39,718 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 08:44:39,728 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 08:48:54,308 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 08:48:54,308 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 08:48:54,880 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 08:48:54,895 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-08-30 17:23:09,556 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-08-30 17:23:09,588 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-08-30 17:23:10,222 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-08-30 17:23:10,237 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-09-26 10:56:12,060 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-09-26 10:56:12,090 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-09-26 10:56:13,101 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-09-26 10:56:13,132 :  Predictions exported to Prediction_Results/prediction.csv
+INFO : PREDICTION.predict_data : 2020-10-16 22:53:38,441 :  Instance initiated
+INFO : PREDICTION.predict_data : 2020-10-16 22:53:38,442 :  Loaded the existing model.pkl file
+INFO : PREDICTION.predict_data : 2020-10-16 22:53:40,431 :  Prediction obtained
+INFO : PREDICTION.predict_data : 2020-10-16 22:53:40,507 :  Predictions exported to Prediction_Results/prediction.csv
